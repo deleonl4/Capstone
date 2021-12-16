@@ -1,0 +1,44 @@
+/*
+ Theme Name: Mesmerize Child
+ Description: My Mesmerize Child Theme
+ Author: Leslie Monteiro
+ Template: mesmerize
+*/
+@import url("../mesmerize/style.css");
+
+}
+@media screen and (max-width: 800px) {
+body{
+    font-family: Oswald, Geneva, Helvetica, Arial, sans-serif;
+}
+}
+
+
+/* MOUSE OVER LINK */
+a:hover {
+    color: #03a9f4;
+}
+
+
+/* SELECTED LINK */
+a:active {
+    color: #03a9f4;
+   text-decoration: underline;
+}
+
+/*HEADINGS*/
+
+h1,h2,h3,h4,h5,h6 {
+    color: #82878C;
+}
+
+
+body{
+    font-family: Oswald, Geneva, Helvetica, Arial, sans-serif;
+}
+
+footer { 
+    border: none;
+    width: 100%;
+    background-color:#ffffff;
+}
